@@ -10,8 +10,8 @@
 
     NOTE:
     Reference documents for JS
-    -   MDN webdocs 
-    -   t39.es.com (Official ecmascript)
+    -   MDN webdocs : https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    -   Official ecmascript : https://tc39.es/ecma262/#sec-intro 
 */
 
 console.log(typeof null);       // object
