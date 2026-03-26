@@ -12,6 +12,24 @@ Q3. If null is primititve-DT, then why is it's type "Object" ?
 Q4. What is the DT of all non-primitive-datatypes ? (It is not exactly what you see for FUNCTIONS....)
 Q5. How many ways can you declare functions in JS ?
 */
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+/* 
+Return type of variables in JavaScript
+1) Primitive Datatypes
+       Number => number
+       String  => string
+       Boolean  => boolean
+       null  => object
+       undefined  =>  undefined
+       Symbol  =>  symbol
+       BigInt  =>  bigint
+
+2) Non-primitive Datatypes
+       Arrays  =>  object
+       Function  =>  function
+       Object  =>  object
+*/
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* 
 // PRIMITIVE (Call By value)
