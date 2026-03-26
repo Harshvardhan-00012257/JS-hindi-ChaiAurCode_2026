@@ -3,10 +3,11 @@
 // We will just have an overview about this topic here, the main learning will happen as you dive into projects, where you will find actual use-cases and applications of these things.
 // You need not waste time understanding every nook-and-cranny of conversions.
 // The only things that you need to learn here is:
-        1. Learn operators (go through precedences, no need to remember)
+        1. Learn operators (also go through precedences, no need to remember)
         2. Exam specific tricky code v/s Production grade clean code and practices.
-        3. Code readability an simple-logic >>>>>>> Tricky code doing same job.
-        4. Make use of prentheses...!!
+        3. Simple is valuable
+        4. Code readability and simple-logic >>>>>>> Tricky code doing same job.
+        5. Make use of prentheses...!!
 */
 let value = 3;
 let negValue = -value;
