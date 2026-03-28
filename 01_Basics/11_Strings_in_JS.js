@@ -11,7 +11,8 @@
 // 4. Get familiar with string methods - Very important (use MDN docs, browser-console etc.)
 //      - String methods (length(), charAt(), indexof(), substring(), slice(), trim(), replace(), includes(), split())
 // 5. Declare strings normally v/s declare string explicitly as object
-//      Explicit declaration strictly-ensures that datatype is "String" (Same for other DT's as well)
+//      - Explicit declaration strictly-ensures that datatype is "String" (Same for other DT's as well)
+//      - Q. Which declaration of variable is preferred?
 // 6. Do not confuse string as an Object with Arrays
 
 //--------------------------------------+++++++++++++++++++++++++++++++++++++++++++++++----------------------------------------------
