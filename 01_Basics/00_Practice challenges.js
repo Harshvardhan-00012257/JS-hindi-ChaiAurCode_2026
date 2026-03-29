@@ -54,3 +54,15 @@ Generate intuitive proof for formula
 Advance level task: 
                 Write code to prove that probability of occurence of each integer over number of trials, is preety much the same (Basically prove random() is fairly uniform function)
 */
+
+
+
+// 13_Dates_and_Time.js
+/* 
+Customize date formats before printing.
+Can you somehow save them as templates?
+------------------------------
+Find what date is it today using value obtained from date.now() timestamp
+
+Can you find today's day tentatively (or) accurately?
+*/
