@@ -13,6 +13,24 @@
 // 5. Declare strings normally v/s declare string explicitly as object
 //      - Explicit declaration strictly-ensures that datatype is "String" (Same for other DT's as well)
 //      - Q. Which declaration of variable is preferred?
+//              - ⚠️ Industry Insight (Very Important)
+//                      You almost NEVER use:
+//                              new Number()
+//                              new String()
+//
+//                      Because:
+//
+//                          They behave like objects (confusing)
+//                          They break expectations
+//                          They cause subtle bugs
+//
+//                      👉 Instead, if you need shared mutable data:
+//                          Use objects or arrays
+//
+//              - If your goal is:
+//                          Shared updates → use objects
+//                          Independent values → use primitives
+//
 // 6. Do not confuse string as an Object with Arrays
 
 //--------------------------------------+++++++++++++++++++++++++++++++++++++++++++++++----------------------------------------------
